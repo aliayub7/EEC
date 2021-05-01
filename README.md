@@ -12,6 +12,7 @@ The two main impediments to continual learning are catastrophic forgetting and m
 * Use requirements.txt to install all the required libraries
 * Download the datasets in */data directory
 ## Usage
+* Create ```checkpoint```, ```data``` and ```previous_classes``` folders.
 * Run ```multiple_auto_decay.py``` to run EEC with multiple autoencoders without using pseudorehearsal.
 * Run ```multiple_pseudo.py``` to run EEC with multiple autoencoders with pseudorehearsal.
 * The code currently has parameters set for ImageNet-50. Just change the appropriate parameters to run it on other datasets.
