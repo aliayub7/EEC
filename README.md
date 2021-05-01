@@ -21,7 +21,7 @@ The two main impediments to continual learning are catastrophic forgetting and m
 @inproceedings{
 ayub2021eec,
 title={{EEC}: Learning to Encode and Regenerate Images for Continual Learning},
-author={Ali Ayub and Alan Wagner},
+author={Ali Ayub and Alan R. Wagner},
 booktitle={International Conference on Learning Representations},
 year={2021}
 }
