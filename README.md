@@ -9,7 +9,7 @@ The two main impediments to continual learning are catastrophic forgetting and m
 * torch (Currently working with 1.3.1)
 * Scipy (Currently working with 1.2.1)
 * Scikit Learn (Currently working with 0.21.2)
-* You can use requirements.txt to install the required libraries
+* Use requirements.txt to install all the required libraries
 * Download the datasets in */data directory
 ## Usage
 * Run ```multiple_auto_decay.py``` to run EEC with multiple autoencoders without using pseudorehearsal.
