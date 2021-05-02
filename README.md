@@ -16,6 +16,7 @@ The two main impediments to continual learning are catastrophic forgetting and m
 * Run ```multiple_auto_decay.py``` to run EEC with multiple autoencoders without using pseudorehearsal.
 * Run ```multiple_pseudo.py``` to run EEC with multiple autoencoders with pseudorehearsal.
 * The code currently has parameters set for ImageNet-50. Just change the appropriate parameters to run it on other datasets.
+* Label smoothing was used from this repo: [Link](https://github.com/weiaicunzai/Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks)
 ## If you consider citing us
 ```
 @inproceedings{
