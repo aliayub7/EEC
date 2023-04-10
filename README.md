@@ -24,6 +24,6 @@ ayub2021eec,
 title={{EEC}: Learning to Encode and Regenerate Images for Continual Learning},
 author={Ali Ayub and Alan R. Wagner},
 booktitle={International Conference on Learning Representations},
-year={2023}
+year={2021}
 }
 ```
